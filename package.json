@@ -1,0 +1,19 @@
+{
+  "name": "trilha-typescript",
+  "version": "1.0.0",
+  "description": "Conteúdo e exercícios práticos para desenvolver habilidades em Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graziellecafe/trilha-typescript.git"
+  },
+  "author": "Grazielle Café",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graziellecafe/trilha-typescript/issues"
+  },
+  "homepage": "https://github.com/graziellecafe/trilha-typescript#readme"
+}
